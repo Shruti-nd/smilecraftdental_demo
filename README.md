@@ -12,6 +12,8 @@ After deployment your site will look like:
 
 https://your-project-name.vercel.app
 
+(https://smilecraftdentaldemo.vercel.app/)
+
 ---
 
 # ✨ Features
@@ -108,6 +110,7 @@ To customize for a specific dental clinic update:
 This allows the template to be reused for multiple dental clinics.
 
 ---
+
 
 ## Copyright
 
